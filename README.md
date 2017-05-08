@@ -1,8 +1,6 @@
 # React Native Test1
-#project
 
 
-![](reactNative-app2.png)
+![Screenshot](https://github.com/alexiTakov/reactNative-test1/reactNative-app2.png?raw=true)
 
-
-![](reactNative-app.png)
+![Screenshot](https://github.com/alexiTakov/reactNative-test1/reactNative-app.png?raw=true)
